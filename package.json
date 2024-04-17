@@ -6,10 +6,10 @@
   "author": "Toha <tohenk@yahoo.com>",
   "license": "MIT",
   "dependencies": {
-    "@ntlab/ntlib": "^2.0.1",
-    "@ntlab/work": "^1.1.2",
+    "@ntlab/ntlib": "^2.0.5",
+    "@ntlab/work": "^2.0.0",
     "debug": "^4.3.4",
-    "socket.io": "^4.5.4",
-    "tesseract.js": "^4.0.2"
+    "socket.io": "^4.7.5",
+    "tesseract.js": "^4.1.4"
   }
 }
